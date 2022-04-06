@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I build a basic website listing a few cooking recipes. The purpose of this project is to take everything I've learned in html so far and put it together. The website consists of an index with links to other pages, each containing a different recipe. Each recipe page contains an image of the finished dish, a description of the dish, a list of required ingredients and step by step directions.
